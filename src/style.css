@@ -275,7 +275,7 @@ body.dashboard-page {
 .product-list-container{
     margin: 0 auto; /* Centraliza a lista */
     display: flex;
-    flex-direction: column !important;
+    flex-direction: column !important;;
     gap: 20px; /* Espaço entre os cards */
 }
 
